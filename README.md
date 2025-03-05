@@ -12,10 +12,17 @@ I have several years of experience as an engineer and in the SolidWorks program.
 
 ## Projects
 
-### Project 1: 
-![Project 1 Screenshot](113.JPG)  
+### Projects 1 - Steel structures: 
+![Project 1 Screenshot](113a.JPG) 
+![Project 1 Screenshot](113.JPG)
+![Project 1 Screenshot](H1.JPG) 
+![Project 1 Screenshot](H2.JPG) 
+![Project 1 Screenshot](S1.JPG)
+![Project 1 Screenshot](S2.JPG)
+![Project 1 Screenshot](T1.JPG) 
+![Project 1 Screenshot](T2.JPG) 
+![Project 1 Screenshot](T3.JPG) 
 **Description:**  
-Steel structures
 development of the project from the concept to a complete set of documentation for the manufacture of the structure.
 - development of the concept or implementation of the architect's idea,
 - creation of a 3D model,
