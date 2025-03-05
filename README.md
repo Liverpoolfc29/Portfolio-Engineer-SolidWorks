@@ -1,6 +1,6 @@
 # Engineering Portfolio
 
-Hi! My name is MIka, and I'm an engineer. This repository showcases some of my projects and 3D models. Feel free to explore!
+Hi! My name is Mikhail, and I'm an engineer. This repository showcases some of my projects and 3D models. Feel free to explore!
 
 ---
 
@@ -15,7 +15,6 @@ Here I will show you some files of my work, the volume of work is very large, so
 
 ### Projects 1 - Steel structures: 
 ![Project 1 Screenshot](113a.JPG) 
-![Project 1 Screenshot](113.JPG)
 ![Project 1 Screenshot](H1.JPG) 
 ![Project 1 Screenshot](H2.JPG) 
 ![Project 1 Screenshot](S1.JPG)
